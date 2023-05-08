@@ -15,3 +15,5 @@ map.py: Using the Best structures and SIFTS mapping api from PDBe to find protei
 map2.py: Using the Best structures and SIFTS mapping api from PDBe to find protein complex structures for the S4191 mutation dataset. And using PremPS and Mutabind2 to calculate.
 
 chayi.R: R Codes for conducting t-tests, Wilcoxon tests, Fisher tests, and chi-square tests .
+
+tongji.py: Python codes to calculate the numbers of 4 mutations and draw .
