@@ -1,6 +1,8 @@
 # Undergraduate-graduation-project
 Undergraduate graduation project in Soochow University
 
+Performance evaluation of computational methods for predicting the effect of missense mutation on protein-protein interaction.
+
 Python and R are used in data processing.
 
 Description of the py files and R files:
